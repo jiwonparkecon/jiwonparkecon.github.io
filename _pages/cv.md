@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download [CV]<jiwonparkecon.github.io/files/JiwonPark_CV_210824.pdf> 
+Download [CV](https://jiwonparkecon.github.io/files/JiwonPark_CV_210824.pdf)
 
 Professional Experience
 -----
