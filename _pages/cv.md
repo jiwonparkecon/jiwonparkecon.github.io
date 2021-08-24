@@ -49,7 +49,7 @@ Research Experience and Other Employment
 
 Working Papers
 -----
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
