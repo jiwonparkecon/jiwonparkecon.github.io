@@ -35,7 +35,8 @@ Abstract
 <summary>
 Abstract
 </summary>
-<p> 
+<p>
+ While the impact of outsourcing in manufacturing industries is well-documented, relatively little is known about service outsourcing despite its growing importance in the economy. This paper is one of the few papers studying the effect of service outsourcing on the US's labor market, focusing on India, one of the most popular outsourcing destination countries. I examine whether the increase in service outsourcing to India has reduced the employment of the occupations with greater exposure to Indian service Imports. To account for endogeneity, I instrument for the growth of the US's service import from India exploiting the change in Indian import in European countries. The occupation level analysis gives a mixed result. An increase in service imports reduces the total employment from 2000 to 2007; however, this effect attenuates in the later period of 2007 to 2017. The change is skill-biased: the reduction in employment is smaller for college-educated workers in the first period, and the sign reverses later.  
   </p>
 </details>
 
