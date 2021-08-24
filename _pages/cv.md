@@ -48,17 +48,34 @@ Research Experience and Other Employment
 
 
 Working Papers
------
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+----
+“Competition Between Public and Private Schools: Evidence from the Great Recession” [[draft](https://jiwonparkecon.github.io/files/jmp_jp_recent.pdf)] (*Job Market Paper*)(*Under Review*)
+<br>
+"Does Facility-Based Delivery Save Lives? Evidence from Rwanda" [[draft](https://jiwonparkecon.github.io/files/rwanda-recent.pdf)] (*Under Review*)
+<br>
+“Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US”[[draft](https://jiwonparkecon.github.io/files/offshore_draft_recent.pdf)]
+<br>
+“The Socioeconomic Gradient in the Inheritance of Longevity: A Study of American Genealogies” (with Sok Chul Hong)
+
+
+Work in Progress
+----
+“Non-native Peer Impact on Long-term Outcomes: Evidence from Texas”
+<br>
+“H-1B Visa and Impact on Native-born Workers”
+
 
   
 Teaching
 -----
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Spring 2020 Intermediate Macroeconomics, University of Texas at Austin, Teaching Assistant for Professor Brian Trinque
+* Fall 2020 Historical Roots of US Finance, University of Texas at Austin, Tetaching Assistant for Professor Brian Trinque
+* Spring 2018-2020 Development Economics, University of Texas at Austin, Teaching Assistant for Professor Leigh Linden
+* Fall 2019 Development and Population, University of Texas at Austin, Teaching Assistant for Professor Dean Spears
+* Fall 2018 International Economics, University of Texas at Austin, Teaching Assistant for Professor Shalah Mostashari
+* Summer 2018 Mathematics for Economics (Master level), University of Texas at Austin, Teaching Assistant for Professor James Wiseman
+* Spring 2017 Economics Statistics, University of Texas at Austin, Teaching Assistant for Professor Valarie Bencivenga
+* Fall 2016-2017 Introduction to Microeconomics, University of Texas at Austin, Teaching Assistant for Professor Helen Schneider
+* Spring 2015 International Trade Theory, Sogang University, Teaching Assistant for Professor E. Young Song
+* Fall 2014 Economic Growth Theory, Sogang University, Teaching Assistant for Professor E. Young Song
 
