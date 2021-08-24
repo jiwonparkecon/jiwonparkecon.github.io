@@ -8,52 +8,57 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download [CV]<jiwonparkecon.github.io/files/JiwonPark_CV_210824.pdf> 
+
+Professional Experience
+-----
+* Associate Research Fellow, Korea Institute for International Economic Policy, 2021-current
+ 
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-----
+* Ph.D., Economics, University of Texas at Austin, 2021
+* M.S., Economics, University of Texas at Austin, 2018
+* M.A., Economics, Sogang University, Seoul, South Korea, 2016
+* B.A., Economics, Sogang University, Seoul, South Korea, 2014
+* B.S., Economics, Sogang University, Seoul, South Korea, *with Highest Honor*, 2014
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Research Fields
+-----
+* Fields: Labor Economics, Economics of Education, Public Economics, Applied Microeconomics
+* Sub-Fields: Development Economics, Health Economics
 
-Publications
-======
+
+Honors, Scholarships, and Fellowships
+-----
+* 2019		University of Texas Summer Research Fellowship
+* 2016-2018 	University of Texas Graduate School Fellowship
+* 2014-2016	Sogang University Graduate School Fellowship
+* 2013		Sogang University Best Student Award
+* 2011, 2012, 2013 School of Natural Science Dean's list, Sogang University
+* 2010-2014	The National Scholarship for Science and Engineering, Korea Student Aid Foundation
+
+Research Experience and Other Employment
+-----
+* 2018-2020	Research Assistant to Professor Leigh Linden, Department of Economics, University of Texas at Austin
+*	2016		Research Assistant, Korea Economic Research Institute
+*	2014-2015	Research Assistant to Professor E. Young Song, School of Economics, Sogang University
+
+
+Working Papers
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
-======
+-----
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
