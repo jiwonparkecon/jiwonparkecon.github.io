@@ -13,7 +13,7 @@ author_profile: true
 
 Working Papers
 ----
-“Competition Between Public and Private Schools: Evidence from the Great Recession” [[draft](https://jiwonparkecon.github.io/files/jmp_jp_recent.pdf)](*Job Market Paper*)(*Under Review*)
+“Competition Between Public and Private Schools: Evidence from the Great Recession” [[draft](https://jiwonparkecon.github.io/files/jmp_jp_recent.pdf)] (*Job Market Paper*)(*Under Review*)
 <details>
 <summary>
 Abstract
@@ -35,10 +35,17 @@ Abstract
 <summary>
 Abstract
 </summary>
-<p> </p>
+<p> 
+  </p>
 </details>
+
+<br>
+“The Socioeconomic Gradient in the Inheritance of Longevity: A Study of American Genealogies” (with Sok Chul Hong)
+
 
 Work in Progress
 ----
-
+“Non-native Peer Impact on Long-term Outcomes: Evidence from Texas”
+<br>
+“H-1B Visa and Impact on Native-born Workers”
 
