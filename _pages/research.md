@@ -22,7 +22,7 @@ Abstract
 </details>
 
 
-"Free Maternal Health Services and Childhood Mortality: Evidence from Rwanda" [[draft](https://jiwonparkecon.github.io/files/Rwanda_JP.pdf)] (*Under Review*)
+"Free Maternal Health Services and Childhood Mortality: Evidence from Rwanda" [[draft](https://jiwonparkecon.github.io/files/Rwanda_JP.pdf)] (R&R at _Health Economics_)
 <details>
 <summary>
 Abstract
@@ -30,8 +30,8 @@ Abstract
 <p>In 2006, Rwanda initiated Facility-Based Childbirth Policy (FBCP) to promote facility-based child delivery (FBD) and prenatal care. This paper studies the effect of this reform on FBD and prenatal care utilization, and childhood mortality rates. To identify the causal effect, I utilize the geographical variation of FBD in the baseline period and the timing of the policy in a difference-in-difference framework. My estimates suggest that the health reform increased FBD and the number of prenatal visits by 10-14 percentage points and 0.11-0.16 times, respectively.  Next, I examine whether the health reform reduced childhood mortality rates. The reform has a substantial effect on infant (under one year) and child (under five years) mortality, 12 and 25 reductions per 1,000 live births, respectively. However, the overall reduction in newborn (seven days) neonatal (30 days) mortality is not statistically significant despite a large increase in FBD. The results are robust to using alternative definitions of treatment status. I show that other policy interventions like performance-based financing schemes can strengthen the treatment effect on newborn and neonatal mortality, implying the importance of multiple approaches to reduce mortality rates. </p>
 </details>
 
-“Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US”[[draft](https://jiwonparkecon.github.io/files/offshore_draft_recent.pdf)]  (*Under Review*)
-<details>
+“Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US”[[draft](https://jiwonparkecon.github.io/files/offshore_draft_recent.pdf)]  (R&R at _Bulletin of Economic Research_)
+<details> Bulle
 <summary>
 Abstract
 </summary>
