@@ -46,29 +46,11 @@ Research Experience and Other Employment
 *	2014-2015	Research Assistant to Professor E. Young Song, School of Economics, Sogang University
 
 
-Working Papers
-----
-“Competition Between Public and Private Schools: Evidence from the Great Recession” [[draft](https://jiwonparkecon.github.io/files/jmp_jp_recent.pdf)] (*Job Market Paper*)(*Under Review*)
-<br>
-"Does Facility-Based Delivery Save Lives? Evidence from Rwanda" [[draft](https://jiwonparkecon.github.io/files/rwanda-recent.pdf)] (*Under Review*)
-<br>
-“Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US”[[draft](https://jiwonparkecon.github.io/files/offshore_draft_recent.pdf)]
-<br>
-“The Socioeconomic Gradient in the Inheritance of Longevity: A Study of American Genealogies” (with Sok Chul Hong)
-
-
-Work in Progress
-----
-“Non-native Peer Impact on Long-term Outcomes: Evidence from Texas”
-<br>
-“H-1B Visa and Impact on Native-born Workers”
-
-
   
 Teaching
 -----
 * Spring 2020 Intermediate Macroeconomics, University of Texas at Austin, Teaching Assistant for Professor Brian Trinque
-* Fall 2020 Historical Roots of US Finance, University of Texas at Austin, Tetaching Assistant for Professor Brian Trinque
+* Fall 2020 Historical Roots of US Finance, University of Texas at Austin, Teaching Assistant for Professor Brian Trinque
 * Spring 2018-2020 Development Economics, University of Texas at Austin, Teaching Assistant for Professor Leigh Linden
 * Fall 2019 Development and Population, University of Texas at Austin, Teaching Assistant for Professor Dean Spears
 * Fall 2018 International Economics, University of Texas at Austin, Teaching Assistant for Professor Shalah Mostashari
