@@ -20,8 +20,7 @@ Education
 * Ph.D., Economics, University of Texas at Austin, 2021
 * M.S., Economics, University of Texas at Austin, 2018
 * M.A., Economics, Sogang University, Seoul, South Korea, 2016
-* B.A., Economics, Sogang University, Seoul, South Korea, 2014
-* B.S., Economics, Sogang University, Seoul, South Korea, *with Highest Honor*, 2014
+* B.S., Mathematics and B.A., Economics, Sogang University, Seoul, South Korea, *with Highest Honor*, 2014
 
 
   
