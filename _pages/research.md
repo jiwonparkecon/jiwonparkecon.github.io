@@ -15,7 +15,7 @@ author.googlescholar: https://scholar.google.com/citations?hl=en&user=mfZTv30AAA
 
 Published Papers
 ----
-"Weakening Demographic Dividend in India: Exploring the Case in 1999-2019" (With Yoon Jae Ro) (Forthcoming). _Asian Economic Papers _
+"Weakening Demographic Dividend in India: Exploring the Case in 1999-2019" (With Yoon Jae Ro) (Forthcoming). _Asian Economic Papers._
 
 “Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US” (2024). _Bulletin of Economic Research_ 76(1): 203–22. [[Link to Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12417)]  
 
