@@ -15,13 +15,22 @@ author.googlescholar: https://scholar.google.com/citations?hl=en&user=mfZTv30AAA
 
 Published Papers
 ----
-“Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US”[[draft](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12417)]  (Accepted at _Bulletin of Economic Research_)
-
+"Weakening Demographic Dividend in India: Exploring the Case in 1999-2019" (With Yoon Jae Ro) (Forthcoming). _Asian Economic Papers _
+“Oursource to India: The Impact of Service Outsourcing to India on the Labor Market in the US” (2024). _Bulletin of Economic Research_ 76(1): 203–22. [[Link to Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12417)]  
 
 
 Working Papers
 ----
-“Public School Funding and Private Schools in the United States: Evidence from the Great Recession” [[draft](https://jiwonparkecon.github.io/files/Private_School_ver8-4.pdf)] (*Job Market Paper*) (*Under Review*)
+"Resilience of Faith: Post-Covid Religious Trends and the Effect of Ecclesiastical Policy in the United States" (With Angela Cools and Carlos Esparza, SJ) [[Link to Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4748765)]
+<details>
+<summary>
+Abstract
+</summary>
+<p>Utilizing mobility data from 15 million smartphone users, we examine the pandemic's impact on in-person religious attendance in the US. Attendance declined sharply in March 2020 and recovered slowly thereafter. Notably, religious attendance rebounded more gradually than other activities like restaurant visits. There were also variations across religious groups, with Catholics returning at a slower pace than Protestants, Orthodox Christians, Jews, Muslims, Hindus, and Buddhists. By 2022, Protestants and Catholics reached around 85-90 percent of their 2019 attendance; other groups such as Latter-day Saints, Eastern Orthodox Christians, Buddhists, and Hindus had fully returned to pre-pandemic levels. We then introduce a novel approach to examine the impact of religious policies on behavior, leveraging variations in the timing of dispensation rescissions by US Catholic bishops. Using a difference-in-differences event study model, we find a short-term 2-4 percentage point increase in Catholic weekend church attendance following the lifting of dispensations, compared to the 2019 baseline. However, this effect fades over time and is smaller than the attendance surge seen after reopening churches post-lockdowns. These results suggest that religious policies impact behavior, though their effects may be transient.n.</p>
+</details>
+
+
+“Public Education Funding Cuts and Enrollment Shift to Private Schools: Evidence from the Great Recession” [[Link to Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739064)] [[Online Appendix](https://jiwonparkecon.github.io/files/privateschool_appendix.pdf)]
 <details>
 <summary>
 Abstract
@@ -30,7 +39,7 @@ Abstract
 </details>
 
 
-"Health Reforms, Facility-Based Delivery, and Newborn's Health: Evidence from Rwanda" [[draft](https://jiwonparkecon.github.io/files/Rwanda_JP.pdf)] (R&R at _Journal of Demographic Economics_)
+"Health Reforms, Facility-Based Delivery, and Newborn's Health: Evidence from Rwanda" [[draft](https://jiwonparkecon.github.io/files/Rwanda_JODE_rev2.pdf)] [[Online Appendix](https://jiwonparkecon.github.io/files/Rwanda_appendix.pdf)] (R&R at _Journal of Demographic Economics_) 
 <details>
 <summary>
 Abstract
