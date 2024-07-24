@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiwon Park, PhD"
   avatar           : "cropped.png"
-  bio              : "Economist, recent graduate of UT Austin. Associate Research Fellow at KIEP"
-  location         : "Sejong, South Korea"
+  bio              : "Economist, Research Fellow at KIF"
+  location         : "Seoul, Republic of Korea"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jiwonpark@kiep.go.kr"
+  email            : "jwpark@kif.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
