@@ -10,9 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am an associate research fellow at the Korea Institute for International Economic Policy (KIEP).
+I am a  research fellow at the Korea Institute of Finance (KIF).
 
-My research interests are in Labor, Education, and Development.
-
-For further questions, contact me at <jiwonpark@kiep.go.kr> or <jpecon.373@gmail.com>.
+For further questions, contact me at <jwpark@kif.re.kr> or <jpecon.373@gmail.com>.
 
